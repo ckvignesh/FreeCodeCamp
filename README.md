@@ -13,3 +13,5 @@ But avoid copying them. Try to do it on your own & solve it.
 If you want to participate in this challenge, read [this](https://www.freecodecamp.org/challenges/100-days-of-code-challenge).
 
 For more info on this, [visit](https://www.100daysofcode.com/).
+
+***
